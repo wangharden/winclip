@@ -105,4 +105,4 @@ python run_winclip.py
 | Average    | 78.06    | 79.59   | 78.99    | 14.82    | 66.09             | 73.85   | 74.74    | 8.94     |
 
 ## Acknowledgements
-This project borrows some code from [OpenCLip](https://github.com/mlfoundations/open_clip) and [CDO](https://github.com/caoyunkang/CDO), thanks for their admiring contributions~!
+This project is based on https://github.com/caoyunkang/WinClip, thanks for their admiring contributions~!
